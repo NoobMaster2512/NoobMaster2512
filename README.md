@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and improving my skills
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on
-- - 📫 How to reach me ...
+- 📫 How to reach me ...
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
