@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NoobMaster2512
-- 👀 I’m interested in webdev, star wars and fast cars
-- 🌱 I’m currently learning webdev
-- 💞️ I’m looking to collaborate on NOTHING!!!
-- 📫 How to reach me ... DONT.
-- 😄 Pronouns: n/a
-- ⚡ Fun fact: n/a
+- 👀 I’m interested in web development and improving my skills
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on
+- - 📫 How to reach me ...
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 NoobMaster2512/NoobMaster2512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
