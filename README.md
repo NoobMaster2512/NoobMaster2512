@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NoobMaster2512
 - 👀 I’m interested in web development and improving my skills
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
-- 😄 Pronouns: 
+- 🌱 I’m currently learning fullstack web development and some app development (android).
+- 💞️ I’m looking to collaborate on:
+- 📫 How to reach me: Bluesky 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
 <!---
